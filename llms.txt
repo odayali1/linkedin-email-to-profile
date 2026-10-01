@@ -1,0 +1,16 @@
+# Email to LinkedIn Finder
+
+> Find a LinkedIn profile from a work or personal email by running the Mawsool Email to LinkedIn Finder Actor on Apify.
+
+This repository is an example client. Run the published Mawsool Actor on Apify with your own Apify token. Contact info@mawsool.tech · osama@mawsool.tech. Product site: https://mawsool.tech.
+
+## Actors
+
+- [Email to LinkedIn Finder](https://apify.com/oday/mawsool-email-linkedin-lookup): the Actor this code runs
+- [All Mawsool Actors](https://apify.com/oday): the full LinkedIn data suite
+
+## Docs
+
+- [README](https://github.com/odayali1/linkedin-email-to-profile/blob/main/README.md): how to run the example and what it returns
+- [AGENTS.md](https://github.com/odayali1/linkedin-email-to-profile/blob/main/AGENTS.md): instructions for coding agents
+- [Example CSV](https://github.com/odayali1/linkedin-email-to-profile/blob/main/examples/input.csv): input shape
